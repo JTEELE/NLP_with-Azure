@@ -1,0 +1,9 @@
+### This is the content of your .gitignore file
+### -------------------------------------------
+
+# Ignore All (xlsx) files
+*.xlsx
+*.env
+
+# DO-NOT ignore specific file
+# !DBB/Tool Input.xlsx
